@@ -8,3 +8,5 @@ def model2():
 
 def model3():
     print("Addinf code ML Model 3")
+
+print("Model is performing best")
